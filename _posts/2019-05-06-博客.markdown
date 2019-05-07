@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Publish Test
+title: 受限波尔兹曼机
 date: 2019-05-06 10:25:52 +0800
-categories: default
+categories: concept
 ---
 
-测试发布
-
+####这篇文章围绕受限波尔兹曼机展开研究
